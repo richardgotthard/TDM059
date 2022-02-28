@@ -6,3 +6,5 @@ Lab 1 - Introduction to MATLAB and Digital Images
 Lab 2 - Digital Screening
 
 Lab 3 - Color
+
+Made by Marcus Frankelius & Richard Gotthard
